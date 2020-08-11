@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+#mountain{
+    height: 550px;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 5em;
+    font-family: 'Kaushan Script', cursive;
+}
+p{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 2em;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 150px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;     
+    top: 100px
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 500px;
+}
+.middle-container{
+
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.bottom-container{
+
+}
+.ic{
+    height: 17em;
+    text-align: center;
+}
+#android{
+    float: left;
+    position: relative;
+    bottom: 50px;
+}
+#node{
+    float: right;
+    position: relative;
+    bottom: 20px;
+}
