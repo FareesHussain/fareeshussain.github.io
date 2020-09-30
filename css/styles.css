@@ -60,9 +60,14 @@ a:hover{
 }
 
 .intro{
-    width: 30%;
+    width: 80%;
     margin: auto;
 }
+
+@media screen and (max-width: 768px) {
+    width: 65%;    
+}    
+
 .skill-row{
     width: 50%;
     margin: 100px auto 100px auto;
